@@ -2,7 +2,7 @@ Leaflet.Compass
 ===================
 
 This little plugin for <a href="http://leafletjs.com/">leaflet</a> let you integrate Compass in <a href="http://phonegap.com/">PhoneGap</a> application base on <a href="http://docs.phonegap.com/en/2.3.0/cordova_compass_compass.md.html#Compass">Compass API</a> .
-This exemple use Cordova 2.3.
+This exemple use Cordova 2.3 and Leaflet 0.5.1. 
 
 
 Usage
